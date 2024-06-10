@@ -1,6 +1,6 @@
-<h1> Coffee Music </h1>
+<h1> Coffee w/ Music ☕ </h1>
 
-<h3> Projeto básico para prática de HTML e CSS </h3>
+<h3> Projeto básico para prática de <u>HTML</u> e <u>CSS</u> </h3>
 
 <b> Acesse o Deploy em: https://coffee-music.vercel.app </b>
 
